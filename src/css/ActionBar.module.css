@@ -1,0 +1,9 @@
+.rightAlign{
+    float: right;
+}
+
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
